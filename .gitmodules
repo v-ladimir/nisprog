@@ -1,6 +1,6 @@
 [submodule "freediag"]
 	path = freediag
-	url = https://github.com/fenugrec/freediag
+	url = https://github.com/v-ladimir/freediag
 [submodule "nissutils"]
 	path = nissutils
 	url = https://github.com/fenugrec/nissutils
