@@ -139,4 +139,9 @@ const char *get_npk_id(void);
  */
 const char *decode_nrc(uint8_t *rxdata);
 
+/** set eeprom eep_write() function address
+ * return 0 if ok
+ */
+int set_eepw_addr(uint32_t addr);
+
 #endif
